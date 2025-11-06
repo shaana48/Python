@@ -1,3 +1,4 @@
+ipykernal
 pandas
 numpy
 matplotlib
