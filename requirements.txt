@@ -2,3 +2,4 @@ ipykernal
 pandas
 numpy
 matplotlib
+seaborn
