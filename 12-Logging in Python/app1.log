@@ -1,0 +1,4 @@
+2025-11-19 20:27:57 - ArithmeticApp - DEBUG - Adding 10 + 50 = 60
+2025-11-19 20:27:57 - ArithmeticApp - DEBUG - Subtracting 50 - 10 = 40
+2025-11-19 20:27:57 - ArithmeticApp - DEBUG - Multiplying 10 * 50 = 500
+2025-11-19 20:27:57 - ArithmeticApp - DEBUG - Dividing 50 / 10 = 5.0
